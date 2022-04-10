@@ -1,0 +1,129 @@
+*{
+    padding: 0%;
+    margin: 0.5rem;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:radial-gradient(red 5%, green 15%, blue 60%);
+}
+
+ h1{
+   
+    background-color: rgba(225, 228, 231, 0.932);
+    width: 30%
+    ;
+    margin: auto;
+    border-bottom-left-radius: 30px;
+    border-top-right-radius: 25px;
+}
+
+.profile-picture img{
+    width: 23%;
+    background-color: orange;
+    border-radius: 100%;
+}
+
+#objective{
+   margin-left: 1rem;
+   margin-top: 1rem;
+   background-color: rgba(225, 228, 231, 0.932);
+
+}
+
+#carrier-objective-P{
+    margin-left: 2rem;
+    text-align: left;
+    margin-top: 1rem;
+}
+
+#carrier-profile{
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
+
+#carrier-profile-p{
+    margin-left: 2rem;
+    text-align: left;
+    margin-top: 1rem; 
+}
+
+#work-experience{
+    margin-left: 1rem;
+    margin-top: 1rem;
+}
+
+#work-experience-p{
+   
+    margin-top: 1rem;
+  
+    
+
+}
+
+#work-experience-p{
+    margin-left: 0px;
+    width: 55%;
+    font: bold;
+    text-decoration: underline;
+
+}
+
+.Roles-and-Responsibilities ul li{
+    margin-left: 2rem;
+    text-align: left;
+    margin-top: 1rem; 
+}
+
+#Roles-and-Responsibilities-h1{
+    width: 40%;
+    margin-left: 1rem;
+    margin-top: 2rem;
+}
+
+#technical-skill-h1{
+    margin-left: 2rem;
+   
+    margin-top: 1rem; 
+}
+.technical-skill-ul li{
+    margin-left: 2rem;
+    text-align: left;
+    margin-top: 1rem; 
+    
+}
+
+#professional-skill-h1{
+    margin-left: 2rem;
+   
+    margin-top: 1rem; 
+}
+#professiona-skill-ul li{
+    margin-left: 2rem;
+    text-align: left;
+    margin-top: 1rem; 
+}
+
+
+.fotter{
+
+
+  font-size: small;
+    text-align: center;
+    width: 30%;
+    margin: auto;
+   
+    
+}
+
+hr{
+    
+}
+
+
+ #img{
+    width: 15%;
+  
+   background-color: aqua;
+  border-radius: 100%;
+  
+}
+
